@@ -1,0 +1,1 @@
+// Explore having this be a component to import into Porfolio as you start adding projects. Would look much cleaner. 
