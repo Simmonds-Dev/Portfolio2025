@@ -12,13 +12,13 @@ function Footer() {
                     </p>
                 </div>
                     <section className="iconGroup">
-                        <a className='icons' href='https://github.com/Christoph551' target='_blank'>
+                        <a className='icons' href='https://github.com/Simmonds-Dev' target='_blank'>
                             <GithubIcon />
                         </a>
                         <a className='icons' href='https://www.linkedin.com/in/christopher-simmonds' target='_blank'>
                             <LinkedInIcon />
                         </a>
-                        <a className='icons' href='mailto:christophersimmonds551@gmail.com' target='_blank'>
+                        <a className='icons' href='mailto:simmonds.dev@gmail.com' target='_blank'>
                             <EmailIcon />
                         </a>
                     </section>
