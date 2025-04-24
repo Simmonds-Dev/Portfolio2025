@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio2025/static/css/main.6d2481aa.css",
-    "main.js": "/Portfolio2025/static/js/main.a27d752a.js",
+    "main.js": "/Portfolio2025/static/js/main.df7ea8df.js",
     "static/js/488.51baac09.chunk.js": "/Portfolio2025/static/js/488.51baac09.chunk.js",
     "static/media/Code3Graphix.png": "/Portfolio2025/static/media/Code3Graphix.271e3b2a30343d3e26f2.png",
     "static/media/2025Resume.pdf": "/Portfolio2025/static/media/2025Resume.3ffb0174df7c4681a139.pdf",
-    "static/media/Password-Generator.png": "/Portfolio2025/static/media/Password-Generator.838c6a78427b60437102.png",
+    "static/media/HandleThis.png": "/Portfolio2025/static/media/HandleThis.04fe7ea2bf84ed83f604.png",
+    "static/media/couchPotato.webp": "/Portfolio2025/static/media/couchPotato.c224f8e09a6437c84e01.webp",
     "static/media/WebDevCertification.pdf": "/Portfolio2025/static/media/WebDevCertification.774bd9a312393ba79b27.pdf",
-    "static/media/CouchPotato.png": "/Portfolio2025/static/media/CouchPotato.ccbffe18adb8c8c8b723.png",
     "static/media/headshot.jfif": "/Portfolio2025/static/media/headshot.41eda33779f8476362f1.jfif",
     "static/media/Github.svg": "/Portfolio2025/static/media/Github.dc49a960a2d3c5a49c806f6188a7733b.svg",
     "static/media/Email.svg": "/Portfolio2025/static/media/Email.62b3955531cfe20f7ed5495024030d45.svg",
@@ -16,11 +16,11 @@
     "static/media/Close.svg": "/Portfolio2025/static/media/Close.fb4cabc3dd433946ff0b50f2c1f39c67.svg",
     "static/media/Hamburger.svg": "/Portfolio2025/static/media/Hamburger.444d0e11927b4093fcb9984b421bfade.svg",
     "main.6d2481aa.css.map": "/Portfolio2025/static/css/main.6d2481aa.css.map",
-    "main.a27d752a.js.map": "/Portfolio2025/static/js/main.a27d752a.js.map",
+    "main.df7ea8df.js.map": "/Portfolio2025/static/js/main.df7ea8df.js.map",
     "488.51baac09.chunk.js.map": "/Portfolio2025/static/js/488.51baac09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d2481aa.css",
-    "static/js/main.a27d752a.js"
+    "static/js/main.df7ea8df.js"
   ]
 }
