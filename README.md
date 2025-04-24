@@ -8,9 +8,9 @@ Your feedback is welcomed, so if you have any thoughts on my portfolio, or any o
 
 ## Contact Me
 
-- [Email](christophersimmonds551@gmail.com)
+- [Email](simmonds.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/christopher-simmonds/)
 
 ## Deployment
 
-- [Deployed Page](https://christoph551.github.io/portfolio2025/)
+- [Deployed Page](https://simmonds-dev.github.io/Portfolio2025/)
